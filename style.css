@@ -9,6 +9,26 @@ body {
     width: 50px;
 }
 
+#nav_btn {
+    margin-left: auto;
+    margin-right: 10px;
+    background-color: white;
+    text-align: center;
+    padding-top: 25px;
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+    display: inline-block;
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+}
+
+#nav_btn:hover {
+    box-shadow: 0 0 10px lightseagreen;
+}
+
 .header {
     display: flex;
     background-color: lightblue;
@@ -21,6 +41,12 @@ body {
 
 .stats-container {
     display: flex;
+    cursor: pointer;
+    align-items: stretch;
+}
+
+.stats-container:hover{
+    box-shadow: 0 0 30px lightblue;
 }
 
 .stats-card {
