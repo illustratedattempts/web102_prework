@@ -22,11 +22,10 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-
-<img src='https://i.imgur.com/YYxEq9r.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://i.imgur.com/YYxEq9r.mp4
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  LiceCap
+GIF created with LiceCap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
